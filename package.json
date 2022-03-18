@@ -159,7 +159,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@sentry/react": "^6.17.4",
-    "@sentry/tracing": "^6.17.4",
+    "@sentry/tracing": "^6.18.0",
     "@types/crypto-js": "^4.0.2",
     "@types/react-portal": "^4.0.4",
     "crypto-js": "^4.0.0",
